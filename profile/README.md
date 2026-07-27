@@ -85,9 +85,13 @@ As the group and the ecosystem grows, leadership will gradually expand through p
 
 # Contact
 GitHub: https://github.com/sylith-technologies
-Website: *(Coming soon)*
+
+Website: https://sylith-technologies.github.io/
+
 Discord: *(Coming soon)*
+
 Email: *(Coming soon)*
+
 LinkedIn: *(Coming soon)*
 
 ---
