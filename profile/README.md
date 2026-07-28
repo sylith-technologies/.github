@@ -90,7 +90,7 @@ Website: https://sylith-technologies.github.io/
 
 Discord: *(Coming soon)*
 
-Email: *(Coming soon)*
+Email: <sylithtech.contact@gmail.com>
 
 LinkedIn: *(Coming soon)*
 
